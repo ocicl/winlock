@@ -1,0 +1,10 @@
+* winlock
+
+File locking on Windows for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ruricolist/winlock.git   |
+| commit  | 675e138  |
+| systems | winlock |
+|---------+-------------------------------------------|
+
